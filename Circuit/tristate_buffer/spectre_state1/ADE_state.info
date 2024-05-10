@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("circuit" "tristate_buffer" "schematic" "spectre")
+descriptionText = "None"
